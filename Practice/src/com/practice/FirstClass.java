@@ -8,7 +8,8 @@ public class FirstClass {
 		System.out.println("How are you today?");
 		System.out.println("What's up");
 		
-		System.out.println("How does stashing work lol");
+		
+		//stashing
 
 	}
 
