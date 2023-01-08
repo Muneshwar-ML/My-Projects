@@ -6,6 +6,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 		
 		System.out.println("How are you today?");
+		System.out.println("What's up");
 
 	}
 
